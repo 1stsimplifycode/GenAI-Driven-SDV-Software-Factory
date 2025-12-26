@@ -1,0 +1,7 @@
+{
+  "name": "Gemini SDV Pro-Diagnostics",
+  "description": "A high-fidelity Software Defined Vehicle (SDV) diagnostics and code generation framework powered by Gemini 3. Includes real-time physics simulation, automated MISRA C++ code generation, and AI-driven predictive maintenance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
